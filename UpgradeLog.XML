@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Bai2-MDI">
+</Property><Property Name="Solution File" Value="C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI.sln">
+</Property><Property Name="User Options File" Value="C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI.suo">
+</Property><Property Name="Date" Value="09 Tháng Ba 2016">
+</Property><Property Name="Time" Value="23:24 CH">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Bai2-MDI.sln" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Bai2-MDI.suo" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI.suo">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Bai2-MDI.csproj" Description="Project file successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\Bai2-MDI.csproj">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\frmChild.cs" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\frmChild.cs">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\frmChild.Designer.cs" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\frmChild.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\frmParent.cs" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\frmParent.cs">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\frmParent.Designer.cs" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\frmParent.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Program.cs" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\Program.cs">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Properties\Settings.settings" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\frmChild.resx" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\frmChild.resx">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\frmParent.resx" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\frmParent.resx">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Properties\Resources.resx" Description="File successfully backed up as C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Backup\Bai2-MDI\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Bai2-MDI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Bai2-MDI" Source="Bai2-MDI\Bai2-MDI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Bai2-MDI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Bai2-MDI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Bai2-MDI" Source="Bai2-MDI\Bai2-MDI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

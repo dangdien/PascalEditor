@@ -1,0 +1,19 @@
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\bin\Debug\Bai2-MDI.exe
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\bin\Debug\Bai2-MDI.pdb
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\obj\Debug\ResolveAssemblyReference.cache
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2_MDI.frmParent.resources
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2_MDI.Properties.Resources.resources
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2-MDI.csproj.GenerateResource.Cache
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2-MDI.exe
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2-MDI.pdb
+D:\SV\PhanDangDien\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2_MDI.frmChild.resources
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2-MDI.exe
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2-MDI.pdb
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\bin\Debug\Bai2-MDI.exe
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\bin\Debug\Bai2-MDI.pdb
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2_MDI.frmChild.resources
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2_MDI.frmParent.resources
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2_MDI.Properties.Resources.resources
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2-MDI.csproj.GenerateResource.Cache
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2-MDI.csprojResolveAssemblyReference.cache
+C:\Users\My PC\Desktop\New Folder\Bai2-MDI\Bai2-MDI\obj\Debug\Bai2_MDI.frmGoTo.resources
